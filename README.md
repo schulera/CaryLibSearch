@@ -5,5 +5,5 @@ Figshare is a public all-in-one repository for papers, data, and other research 
 
 This Figshare API call leverages R, the computing environment that many life scientists use to manipulate and analyze data.
 
-##Data in Figshare for Institutions 
+## Data in Figshare for Institutions 
 The Figshare API works for both the public Figshare instance as well as Figshare for Institutions instances.  A user may want to pull multiple datasets into their RStudio environment for manipulation
