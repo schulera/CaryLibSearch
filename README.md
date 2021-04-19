@@ -1,9 +1,7 @@
-# Figshare API in R
-Pull data from your Figshare for Institutions repository into the RStudio environment.
+# rfigshare_for_institutions
+An R interface to Figshare for Institutions
 
-Figshare is a public all-in-one repository for papers, data, and other research outputs.  Figshare for Institutions (FI) is a licensed product that allows institutions to set up a custom portal of Figshare, allowing institutions to mint their own DOIs, create custom metadata, restricted publishing, and other features.  
-
-This Figshare API call leverages R, the computing environment that many life scientists use to manipulate and analyze data.
+[Figshare for Institutions](https://knowledge.figshare.com/institutions) is a licensed version of the Figshare public repository for data and other research products.  Figshare for Institutions provides organizations with a custom portal, either for branding their own DOIs, creating custom metadata, restricting publication of certain items, or other features.  
 
 ## Data in Figshare for Institutions 
-The Figshare API works for both the public Figshare instance as well as Figshare for Institutions instances.  A user may want to pull multiple datasets into their RStudio environment for manipulation
+The Figshare API works for both the public Figshare repository as well as Figshare for Institutions instances.  The [Figshare API documentation](https://docs.figshare.com/) is thorough and Open API compatible, however, it does not provide examples in R.  
