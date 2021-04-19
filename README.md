@@ -5,3 +5,8 @@ Figshare API usage examples: making API calls to custom Figshare for Institution
 
 ## Data in Figshare for Institutions 
 The Figshare API works for both the public Figshare repository as well as Figshare for Institutions instances.  The [Figshare API documentation](https://docs.figshare.com/) is thorough and Open API compatible, however, it does not provide examples in R.  
+
+Not ready yet!  Usage examples will go here.
+
+## Disclaimer
+This is not an official Figshare product.
