@@ -8,7 +8,8 @@ The Figshare API works for both the public [Figshare](https://figshare.com/) rep
 
 The [Figshare API documentation](https://docs.figshare.com/) is thorough and Open API compatible, however, it does not provide examples in R.  
 
-### API Usage examples will go here.
+>### API Usage examples will go here.
+
 
 ### Disclaimer
 This is not an official Figshare product.
